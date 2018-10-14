@@ -11,7 +11,7 @@ package proyecto;
  */
 public class marco {
     public static void main(String[] args) {
-        System.out.println("marco");
+        System.out.println("marco jajajajja");
     }
             
 }
